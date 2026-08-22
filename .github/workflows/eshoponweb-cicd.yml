@@ -9,7 +9,7 @@ env:
   LOCATION: Eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: b8eb5ec3-44a0-4184-b8c8-a016e8f8620a
-  WEBAPP-NAME: eshoponweb-webapp-4904
+  WEBAPP-NAME: eshoponweb-webapp-mfox4904
 
 jobs:
   #Build, test and publish .net web project in repository
